@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I have been learning code over the past six months while changing careers from education into web development. As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being a full-stack developer. Teaching secondary math for fifteen years has given me the soft skills necessary to excel within this field and I am excited for my new journey.
+I have been learning code over the past six months while changing careers from education into web development. As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being a full-stack developer. Teaching secondary math for fifteen years has given me the skills necessary to excel within this field and I am excited for my new journey.
 
 *   🌍  I'm based in Atlanta, Georgia
 *   ✉️  You can contact me at [teagrinb@gmail.com](mailto:teagrinb@gmail.com)
 *   🧠  I'm learning Full-Stack Coding Bootcamp at Georgia Institute of Technology
-*   🤝  I'm open to collaborating on Everything! Learning new languages, even tech languages, requires collaboration and conversation.
+*   🤝  I'm open to collaborating on Everything! Learning new languages, especially tech languages, requires collaboration and conversation.
 
 ### Skills
 
