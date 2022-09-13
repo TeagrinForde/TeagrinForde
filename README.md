@@ -53,7 +53,7 @@ I have earned a certificate from the Georgia Institute of Technology for Full-St
 <a href="https://www.linkedin.com/in/teagrin-forde-519422197/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/19309045/teagrin-forde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="Stack Overflow" width="32" height="32" /></a>
 <a href="https://www.discordapp.com/users/998714595420143666" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fdiscord-icon-template-39.jpg&f=1&nofb=1" alt="Discord" width="32" height="32" /></a>
-<a href="https://www.acmeco.slack.com.U03KABTAZAR" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="32" height="32" /></a>
+<a href="https://acmeco.slack.com.U03KABTAZAR" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="32" height="32" /></a>
 </p>
 
 ### Badges
