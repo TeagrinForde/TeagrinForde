@@ -9,7 +9,7 @@ Earned certificate from Georgia Institute of Technology in Full-Stack Developmen
 *   🌍  I'm based out of the Metro Atlanta Area in Georgia
 *   🌱  I’m currently learning **Java and AWS**
 *   ✉️  You can contact me at [teagrinb@gmail.com](mailto:teagrinb@gmail.com)
-*   👨‍💻  All of my projects are available at [https://ashley1thompson.github.io/react-portfolio/](https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/)]
+*   👨‍💻  All of my projects are available at [https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/](https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/)]
 *   🧠  I earned certification for the Full-Stack Coding Bootcamp at Georgia Institute of Technology
 *   🧠  I earned PMP certification from Google's Coursera.
 *   🧠  I earned a certification in Artificial Intelligence Explorations and their Practical use in School Environments from ISTE
