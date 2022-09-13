@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Earned certificate from Georgia Institute of Technology in Full-Stack Development and focusing on my career in software development. As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being an adaptive, creative, full-stack developer. In addition to PMP certification from Coursera and AI Explorations and their Practical use in School Environments from the International Society for Tehcnology in Education (ISTE), I have previous experience in secondary and post-secondary math education which are necessary to excel in full-stack development. I am excited for my new journey and am actively seeking full-time employment that utilizes my skills and emcourages personal and professional growth.
+I have earned a certificate from the Georgia Institute of Technology for Full-Stack Development. As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being an adaptive, creative, full-stack developer. In addition to PMP certification from Coursera and AI Explorations and their Practical use in School Environments from the International Society for Tehcnology in Education (ISTE), I have previous experience in secondary and post-secondary math education which are necessary to excel in full-stack development. I am excited for my new journey and am actively seeking full-time employment that utilizes my skills and emcourages personal and professional growth.
 
 *   🌍  I'm based out of the Metro Atlanta Area in Georgia
 *   🌱  I’m currently learning **Java and AWS**
 *   ✉️  You can contact me at [teagrinb@gmail.com](mailto:teagrinb@gmail.com)
-*   👨‍💻  All of my projects are available at [https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/](https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/)]
+*   👨‍💻  All of my projects are available at [https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/](https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/)
 *   🧠  I earned certification for the Full-Stack Coding Bootcamp at Georgia Institute of Technology
 *   🧠  I earned PMP certification from Google's Coursera.
 *   🧠  I earned a certification in Artificial Intelligence Explorations and their Practical use in School Environments from ISTE
@@ -50,13 +50,10 @@ Earned certificate from Georgia Institute of Technology in Full-Stack Developmen
 ### Socials
 
 <p align="left"> 
-<a href="https://www.github.com/TeagrinForde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/teagrin-forde-519422197/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/19309045/teagrin-forde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-  
-  <a href="https://www.stackoverflow.com/users/19309045/teagrin-forde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-  
-  <a href="https://www.stackoverflow.com/users/19309045/teagrin-forde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/teagrin-forde-519422197/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/19309045/teagrin-forde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="Stack Overflow" width="32" height="32" /></a>
+<a href="https://www.discordapp.com/users/998714595420143666" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fdiscord-icon-template-39.jpg&f=1&nofb=1" alt="Discord" width="32" height="32" /></a>
+<a href="https://www.acmeco.slack.com.U03KABTAZAR" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="32" height="32" /></a>
 </p>
 
 ### Badges
