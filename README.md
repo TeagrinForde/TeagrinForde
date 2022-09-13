@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I have been learning code over the past six months while changing careers from education into web development. As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being a full-stack developer. Teaching secondary math for fifteen years has given me the skills necessary to excel within this field and I am excited for my new journey.
+Earned certificate from Georgia Institute of Technology in Full-Stack Development and focusing on my career in software development. As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being an adaptive, creative, full-stack developer. In addition to PMP certification from Coursera and AI Explorations and their Practical use in School Environments from the International Society for Tehcnology in Education (ISTE), I have previous experience in secondary and post-secondary math education which are necessary to excel in full-stack development. I am excited for my new journey and am actively seeking full-time employment that utilizes my skills and emcourages personal and professional growth.
 
 *   🌍  I'm based in Atlanta, Georgia
 *   ✉️  You can contact me at [teagrinb@gmail.com](mailto:teagrinb@gmail.com)
-*   🧠  I'm learning Full-Stack Coding Bootcamp at Georgia Institute of Technology
-*   🤝  I'm open to collaborating on Everything! Learning new languages, especially tech languages, requires collaboration and conversation.
+*   🧠  I earned certification for the Full-Stack Coding Bootcamp at Georgia Institute of Technology
+*   🧠  I earned PMP certification from Google's Coursera.
+*   🧠  I earned a certification in Artificial Intelligence Explorations and their Practical use in School Environments from ISTE
+*   🤝  I'm open to collaborating on Everything and have experience incorporating a Scrum/Agile methodology! 
 
 ### Skills
 
