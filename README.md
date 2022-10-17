@@ -44,6 +44,7 @@ I have earned a certificate from the Georgia Institute of Technology for Full-St
 <a href="https://sequelize.org/docs/v6/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="36" height="36"/> </a>  
 <a href="https://handlebarsjs.com/guide/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="Handlebars" width="36" height="36"/> </a>  
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="36" height="36"/> </a>
+<a href="https://docs.oracle.com/en/java/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width = "36" height="36"/> </a>
 </p>
 
 ### Socials
