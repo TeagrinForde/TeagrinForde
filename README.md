@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I have earned a certificate from the Georgia Institute of Technology for Full-Stack Development. As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being an adaptive, creative, full-stack developer. In addition to PMP certification from Coursera and AI Explorations and their Practical use in School Environments from the International Society for Tehcnology in Education (ISTE), I have previous experience in secondary and post-secondary math education which are necessary to excel in full-stack development. I am excited for my new journey and am actively seeking full-time employment that utilizes my skills and emcourages personal and professional growth.
+As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being an adaptive, creative, full-stack developer. In addition to a full-stack certification from Georgia Institute of Technology Bootcamp, PMP certification from Google's Coursera, and AI Explorations and their Practical use in School Environments from the International Society for Tehcnology in Education (ISTE), I have previous experience in secondary and post-secondary math education which are necessary to excel in full-stack development. I am excited for my new journey and am actively seeking full-time employment that utilizes my skills and emcourages personal and professional growth.
 
 *   🌍  I'm based out of the Metro Atlanta Area in Georgia
 *   🌱  I’m currently learning **Java and AWS**
