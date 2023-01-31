@@ -7,10 +7,11 @@ Full Stack Web Developer
 As a passionate, life-long learner I enjoy the challenges and problem solving aspects of being an adaptive, creative, full-stack developer. In addition to a full-stack certification from Georgia Institute of Technology Bootcamp, PMP certification from Google's Coursera, and AI Explorations and their Practical use in School Environments from the International Society for Tehcnology in Education (ISTE), I have previous experience in secondary and post-secondary math education which are necessary to excel in full-stack development. I am excited for my new journey and am actively seeking full-time employment that utilizes my skills and emcourages personal and professional growth.
 
 *   🌍  I'm based out of the Metro Atlanta Area in Georgia
-*   🌱  I’m currently learning **Java and AWS**
+*   🌱  I’m currently learning **Conversational AI** at Uniphore Technologies.
 *   ✉️  You can contact me at [teagrinb@gmail.com](mailto:teagrinb@gmail.com)
 *   👨‍💻  More information can be found in my portofolio at [https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/](https://teagrinforde.github.io/TeagrinForde-WebDevPortfolio/)
-*   🧠  I earned certification for the Full-Stack Coding Bootcamp at Georgia Institute of Technology
+*   🧠  I earned an AWS Cloud Practitioner certification through Udemy.
+*   🧠  I earned certification as a Full-Stack Sfotware Development from the Georgia Institute of Technology
 *   🧠  I earned PMP certification from Google's Coursera.
 *   🧠  I earned a certification in Artificial Intelligence Explorations and their Practical use in School Environments from ISTE
 *   🤝  I'm open to collaborating on Everything and have experience incorporating a Scrum/Agile methodology! 
